@@ -1,4 +1,13 @@
-### Hi there 👋
+
+<h3 align="center"> Hello there! Welcome to my Github, tea? ☕️. </h3>
+</br>
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/eexxDzCm3TeMGlouQI/giphy.gif">
+</p>
+<a href="https://sneha-meto.github.io/#/"  >
+ <p  align="center" > sneha-meto.github.io</p>
+ <p height="500"  align="center" ><img width="100" src="https://media.giphy.com/media/oFCQODVjBs4VuZyR6B/giphy.gif"></p>
+
 
 <!--
 **sneha-meto/sneha-meto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
