@@ -1,5 +1,5 @@
 
-<h3 align="center"> Hello there! Welcome to my Github, tea? ☕️. </h3>
+<h3 align="center"> Hello there! Welcome to my Github page, tea? ☕️. </h3>
 </br>
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/eexxDzCm3TeMGlouQI/giphy.gif">
