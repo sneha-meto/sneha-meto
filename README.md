@@ -6,7 +6,7 @@
 </p>
 <p  align="center" ><img width="200" src="https://media.giphy.com/media/9D7e87wvGmBxPwnLrR/giphy.gif"</p>
 
- <p  align="center" ><a href="https://sneha-meto.github.io/#/"  >sneha-meto.github.io</a> </p>
+ <p  align="center" ><a href="https://sneha-meto.github.io/React-Portfolio/"  >sneha-meto.github.io</a> </p>
 
 
 
