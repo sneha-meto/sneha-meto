@@ -5,8 +5,8 @@
   <img width="250" src="https://media.giphy.com/media/eexxDzCm3TeMGlouQI/giphy.gif">
 </p>
 <p  align="center" ><img width="200" src="https://media.giphy.com/media/9D7e87wvGmBxPwnLrR/giphy.gif"</p>
-<a href="https://sneha-meto.github.io/#/"  >
- <p  align="center" > sneha-meto.github.io</p>
+
+ <p  align="center" ><a href="https://sneha-meto.github.io/#/"  >sneha-meto.github.io</a> </p>
 
 
 
